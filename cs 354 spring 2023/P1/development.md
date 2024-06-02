@@ -1,3 +1,7 @@
+RESUME DESCRIPTION-
+
+Leveraged Linux command-line tools and GCC compiler to preprocess, compile, assemble, and link C programs, resulting in efficient and optimized executable files.
+
 - copy file decode.c from `/p/course/cs354-deppeler/public/code/p1/decode.c`
 #  Preprocessing Phase(-E)
 - Preprocessing is the first phase of the build process, which prepares a C source file for compiling.
